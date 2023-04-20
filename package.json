@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@metamask/providers": "^10.2.1",
+    "eth-sig-util": "^3.0.1",
+    "ethereumjs-util": "^7.1.5",
+    "web3": "^1.9.0"
+  },
+  "devDependencies": {
+    "@openzeppelin/hardhat-upgrades": "^1.22.1"
+  }
+}
